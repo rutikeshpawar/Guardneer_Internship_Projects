@@ -1,4 +1,3 @@
-# Guardneer_Internship_Projects
 # Guardneer Internship Projects (June–Dec 2024)
 
 This repository contains all analytics projects I completed during my 6-month data analyst internship at **Guardneer**.
