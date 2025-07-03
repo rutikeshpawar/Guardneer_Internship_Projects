@@ -5,9 +5,6 @@ This project segments 4500+ Guardneer water system customers based on maintenanc
 
 ---
 
-
----
-
 ## 🧠 Key Features
 
 - ✅ Segmented customers into:
@@ -41,9 +38,8 @@ This project segments 4500+ Guardneer water system customers based on maintenanc
 
 ---
 
-## 🔗 Links
-- 💻 [View Dashboard on Tableau Public](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e0a830b1d57cb07d9a267f76bb0ba71eb7553958/2_Guardneer-Customer-Segmentation-Dashboard/Customer_Segment_Guardneer%20.png)
-- 📎 [View Complete GitHub Repo](https://github.com/rutikeshpawar/guardneer-data-analytics-projects)
+## 🔗 Dashboard
+- 💻 ![image alt](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e0a830b1d57cb07d9a267f76bb0ba71eb7553958/2_Guardneer-Customer-Segmentation-Dashboard/Customer_Segment_Guardneer%20.png)
 
 ---
 
