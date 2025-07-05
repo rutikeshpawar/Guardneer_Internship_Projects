@@ -47,7 +47,9 @@ Realistic synthetic data was generated to simulate:
 > Dashboard is styled with modern layout, sparklines, dropdown filters, and clean visual storytelling.
 
 ## 🖼️ Dashboard Preview
-  ![Guardneer Smart Farming Dashboard](Guardneer - Smart Farming and Water Optimization Dashboard.png)
+
+![Guardneer Smart Farming Dashboard](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/raw/934547cee2ba08ed4a6e4b6c13f5a2cacfb97dcf/3_guardneer-smart-farming/Guardneer%20-%20Smart%20Farming%20and%20Water%20Optimization%20Dashboard.png)
+
 
 ---
 
