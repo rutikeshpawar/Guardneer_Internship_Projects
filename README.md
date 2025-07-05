@@ -48,7 +48,7 @@ This repository contains all data analytics projects I completed during my 6-mon
 ## 📬 Author
 
 **Rutikesh Pawar**
-📧 [rutikeshpawar@gmail.com](mailto:rutikeshpawar2000@gmail.com)
+📧 [rutikeshpawar2000@gmail.com](mailto:rutikeshpawar2000@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rutikeshpawar227)
 
 ---
