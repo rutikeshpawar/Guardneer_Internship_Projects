@@ -22,7 +22,7 @@ This repository contains all data analytics projects I completed during my 6-mon
 
 **Summary:** Developed a machine learning-based customer segmentation model using clustering and classification to identify user behavior patterns and group customers by usage, risk, and support needs.
 
-🔗 [View Project Folder](./2-customer-segmentation-model)
+🔗 [View Project Folder](./2_Guardneer-Customer-Segmentation-Dashboard)
 
 ---
 
