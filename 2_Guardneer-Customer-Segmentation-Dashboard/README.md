@@ -39,7 +39,7 @@ This project segments 4500+ Guardneer water system customers based on maintenanc
 ---
 
 ## 🔗 Dashboard
-- 💻 ![image alt](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e0a830b1d57cb07d9a267f76bb0ba71eb7553958/2_Guardneer-Customer-Segmentation-Dashboard/Customer_Segment_Guardneer%20.png)
+- 💻 ![image alt](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/raw/e0a830b1d57cb07d9a267f76bb0ba71eb7553958/2_Guardneer-Customer-Segmentation-Dashboard/Customer_Segment_Guardneer%20.png)
 
 ---
 
