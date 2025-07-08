@@ -41,7 +41,7 @@ This dashboard analyzes water quality, system uptime, usage behavior, and mainte
 ---
 
 ## 📊 Dashboard
-- ![image alt](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/blob/e39a8f115dac1c15afdf3133e6bff2c1ef7776f7/1-water-quality-dashboard/Guardneer%20Dashboard.png)
+- ![image alt](https://github.com/rutikeshpawar/Guardneer_Internship_Projects/raw/e39a8f115dac1c15afdf3133e6bff2c1ef7776f7/1-water-quality-dashboard/Guardneer%20Dashboard.png)
 
 ---
 
